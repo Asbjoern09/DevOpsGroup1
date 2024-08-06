@@ -24,7 +24,7 @@
 |                                                                                 |
 |                                                                                 |
 |                                                                                 |
-|                       Merge Conflict Academy                                    |
+|                       Merge Conflict Academy    sadasdsadasds                                |
 |                             __________                                          |
 |      ________________      |          |                _________________        |
 |      |      |       |      |          |               |        |        |       |
